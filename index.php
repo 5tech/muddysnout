@@ -1,8 +1,8 @@
 <html>
  <head>
   <title>Cyber Crypto Currency Pig</title>
-  <style>
-  div.centered {
+  <STYLE type="text/css">
+  DIV.centered {
   position: fixed;
   top: 50%;
   left: 50%;
@@ -12,7 +12,7 @@
   </style>
  </head>
  <body>
-  <div class=centered>
+  <div class="centered">
  <?php echo '<p>Muddy Snout Marketplace</p>'; ?> 
   <img src=/ms_02.png>
   </div>
