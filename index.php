@@ -22,7 +22,7 @@
  </head>
  <body>
   <div class="centered">
- <?php echo '<h1>Muddy Snout Marketplace</h1>'; ?> 
+ <?php echo '<h1>Muddy Snout Market</h1>'; ?> 
   <img src=ms-02.png>
   </div>
  </body>
