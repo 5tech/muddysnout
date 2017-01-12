@@ -14,7 +14,7 @@
  <body>
   <div class="centered">
  <?php echo '<p>Muddy Snout Marketplace</p>'; ?> 
-  <img src=/ms_02.png>
+  <img src=ms-02.png>
   </div>
  </body>
 </html>
